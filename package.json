@@ -2,7 +2,7 @@
   "name": "reactjs-deloy-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nqhung.com/reactjs-deloy-github/",
+  "homepage": "https://quochung9920.github.io/reactjs-deloy-github/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
