@@ -26,9 +26,9 @@ function App() {
     <React.Fragment>
       <h1>Test call API successfully</h1>
       <h1>Users</h1>
-      <ul>
+      <ol>
         {users.map((user) => <li key={user.id}>{user.name}</li>)}
-      </ul>  
+      </ol>  
     </React.Fragment>
   )
 }
